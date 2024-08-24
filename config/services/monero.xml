@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Monero Mainnet</short>
+  <description>The default port used by Monero to listen for p2p network connections.  Enable this option if you plan to be a full Monero node on mainnet.</description>
+  <port protocol="tcp" port="18080"/>
+</service>

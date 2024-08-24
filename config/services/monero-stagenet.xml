@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Monero Stagenet</short>
+  <description>The default port used by Monero stagenet.  Enable this option if you plan to be a Monero full node on the stage network.</description>
+  <port protocol="tcp" port="38080"/>
+</service>
