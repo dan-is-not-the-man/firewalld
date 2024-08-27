@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <service>
   <short>Monero testnet</short>
-  <description>The default port used by Monero testnet.  Enable this option if you plan to be a Monero full node on the test network.</description>
+  <description>The default port used by Monero to listen for p2p network connections.  Enable this option if you plan to be a full Monero node on tesnet</description>
   <port protocol="tcp" port="28080"/>
 </service>
